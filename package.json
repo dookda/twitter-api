@@ -1,0 +1,27 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "description": "twitter api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookda/twitter-api.git"
+  },
+  "keywords": [
+    "twitter",
+    "api"
+  ],
+  "author": "sakda homhuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dookda/twitter-api/issues"
+  },
+  "homepage": "https://github.com/dookda/twitter-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "twitter-api-client": "^1.6.1"
+  }
+}
